@@ -1,8 +1,10 @@
 - 3 bags of potting soil
 - 1 bag of worm castings
 - lawn mower
+- grass
 - x
 - y
 - z
 - t
+- a
 - b
