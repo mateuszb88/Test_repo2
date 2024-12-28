@@ -4,3 +4,4 @@ pierwszy commit
 3 main
 a rebase-test
 b rebase-test
+c rebase-test
